@@ -39,3 +39,5 @@ function fibonacci(n) {
 console.log(fibonacci(15));
 ```
 
+## Education
+[Javascript basics](https://ru.hexlet.io/courses/js-basics)
